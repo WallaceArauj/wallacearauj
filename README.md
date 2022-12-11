@@ -31,6 +31,7 @@
   <img align="center" alt="Wallace-MySql" height="30" width="40" src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/> 
   <img align="center" alt="Wallace-Git" height="30" width="40" src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
   <img align="center" alt="Wallace-NestJs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" height="30"/>
+  <img align="center" alt="Wallace-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" />
  
 </div>
   
