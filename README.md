@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Work on back-end and front-end | Trabalhando com back-end e front-end
+- 🔭 Work on back-end and front-end 
 - 🌱 learning JavaScript , TypeScript, NestJS, NodeJS, React
 - 😄 Pronouns: (him / his)  |  Pronomes: (ele / dele)
 
